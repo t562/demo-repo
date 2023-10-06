@@ -1,7 +1,5 @@
 # Demo
 
-<h2>hello local<h2>
-
 chicken fly 
 
 pastries 
@@ -15,5 +13,5 @@ thank you :
 
 
 final copy
-....
+
 <h2>hello local<h2>
